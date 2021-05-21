@@ -7,8 +7,8 @@ For this project I scraped the website [Sports-Reference](https://www.sports-ref
 ## Table of Contents
 1. [Cars](##-Cars)
 2. [Pickled Data](##-Pickled-Data)
-3. [Bronx Bombers Code] ()
-4. Technologies 
+3. [Bronx Bombers Code](##-Bronx-Bombers-Code)
+4. [Technologies](##-Technologies)
 5. Metis 
 
 ## Cars
@@ -21,3 +21,15 @@ This is just file where a pickled the data instead of waiting for the function t
 
 ## Bronx Bombers Code
 Here is the main jupyter notebook page where I used python and other techs to scrape the web, manipulate the data and build a prediction model using linear regression. [Bronx Bombers Code](https://github.com/Ezuniga13/Home-Run-regression/blob/main/Bronx%20Bombers.ipynb)
+
+## Technologies 
+-   Python 3.7
+-   statsmodels.api
+-   Seaborn
+-   Pandas
+-   BeautifulSoup
+-   Selenium
+
+## Metis
+[Meits](https://www.thisismetis.com/) is a 12-week accredited data science bootcamp focused on Python programming, machine learning, statistical modeling, data visualization, project design, and communication.
+
