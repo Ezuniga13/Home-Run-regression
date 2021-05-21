@@ -6,9 +6,10 @@ For this project I scraped the website [Sports-Reference](https://www.sports-ref
 
 # Table of Contents
 1. [Cars](#-Cars)
-2. pickeld data
+2. pickled data
 3. Bronx Bombers Code
 4. Technologies 
 5. Metis 
 
 # Cars
+We've all seen the image or video of a 'high profile' ball player, typically a home-run hitter, arriving to the stadium in an expensive sports car. But did you know that most players of that caliber or any major league ball player didn't start off driving luxury cars? I compiled this txt file of [cars that were previously owned by minor league players](https://github.com/Ezuniga13/Home-Run-regression/blob/main/minor-league-cars.txt). 
