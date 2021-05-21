@@ -12,4 +12,6 @@ For this project I scraped the website [Sports-Reference](https://www.sports-ref
 5. Metis 
 
 # Cars
-We've all seen the image or video of a 'high profile' ball player, typically a home-run hitter, arriving to the stadium in an expensive sports car. But did you know that most players of that caliber or any major league ball player didn't start off driving luxury cars? I compiled this txt file of [cars that were previously owned by minor league players](https://github.com/Ezuniga13/Home-Run-regression/blob/main/minor-league-cars.txt),not to chide anyone in particular, but as a gentle reminder for their public and themselves of their humble beginngs. 
+We've all seen the image or video of a 'high profile' ball player, typically a home-run hitter, arriving to the stadium in an expensive sports car. But did you know that most players of that caliber or any major league ball player didn't start off driving luxury cars? I compiled this txt file of [cars that were previously owned by minor league players](https://github.com/Ezuniga13/Home-Run-regression/blob/main/minor-league-cars.txt), not to chide anyone in particular, but as a gentle reminder for their public and themselves of their humble beginngs. <br>
+
+[DISCLAIMER: <EM>intended for humor. data not real<em/>]
