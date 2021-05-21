@@ -5,11 +5,11 @@ For this project I scraped the website [Sports-Reference](https://www.sports-ref
 
 
 ## Table of Contents
-1. [Cars](##-Cars)
+1. [Cars](https://github.com/Ezuniga13/Home-Run-regression#cars)
 2. [Pickled Data](https://github.com/Ezuniga13/Home-Run-regression#pickled-data)
-3. [Bronx Bombers Code](##-Bronx-Bombers-Code)
-4. [Technologies](##-Technologies)
-5. [Metis](##-Metis)
+3. [Bronx Bombers Code](https://github.com/Ezuniga13/Home-Run-regression#bronx-bombers-code)
+4. [Technologies](https://github.com/Ezuniga13/Home-Run-regression#technologies)
+5. [Metis](https://github.com/Ezuniga13/Home-Run-regression#metis)
 
 ## Cars
 We've all seen the image or video of a 'high profile' ball player, typically a home-run hitter, arriving to the stadium in an expensive sports car. But did you know that most players of that caliber or any major league ball player didn't start off driving luxury cars? I compiled this txt file of [cars that were previously owned by minor league players](https://github.com/Ezuniga13/Home-Run-regression/blob/main/minor-league-cars.txt), not to chide anyone in particular, but as a gentle reminder for their public and themselves of their humble beginngs. <br>
@@ -33,5 +33,5 @@ Here is the main jupyter notebook page where I used python and other techs to sc
 ## Metis
 [Meits](https://www.thisismetis.com/) is a 12-week accredited data science bootcamp focused on Python programming, machine learning, statistical modeling, data visualization, project design, and communication.
 
-## New
+
 
