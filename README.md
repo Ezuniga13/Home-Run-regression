@@ -24,7 +24,7 @@ Here is the main jupyter notebook page where I used python and other techs to sc
 
 ## Technologies 
 -   Python 3.7
--   statsmodels.api
+-   Statsmodels.api
 -   Seaborn
 -   Pandas
 -   BeautifulSoup
