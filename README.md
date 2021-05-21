@@ -6,7 +6,7 @@ For this project I scraped the website [Sports-Reference](https://www.sports-ref
 
 ## Table of Contents
 1. [Cars](##-Cars)
-2. [Pickled Data](##-Pickled-Data)
+2. [Pickled Data](https://github.com/Ezuniga13/Home-Run-regression#pickled-data)
 3. [Bronx Bombers Code](##-Bronx-Bombers-Code)
 4. [Technologies](##-Technologies)
 5. [Metis](##-Metis)
