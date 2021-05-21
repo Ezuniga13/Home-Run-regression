@@ -7,7 +7,7 @@ For this project I scraped the website [Sports-Reference](https://www.sports-ref
 ## Table of Contents
 1. [Cars](##-Cars)
 2. [Pickled Data](##-Pickled-Data)
-3. Bronx Bombers Code
+3. [Bronx Bombers Code] ()
 4. Technologies 
 5. Metis 
 
@@ -18,3 +18,6 @@ We've all seen the image or video of a 'high profile' ball player, typically a h
 
 ## Pickled Data
 This is just file where a pickled the data instead of waiting for the function that I built to scrape the webpage. [Pickled Data](https://github.com/Ezuniga13/Home-Run-regression/blob/main/dummy.pkl)
+
+## Bronx Bombers Code
+Here is the main jupyter notebook page where I used python and other techs to scrape the web, manipulate the data and build a prediction model using linear regression. [Bronx Bombers Code](https://github.com/Ezuniga13/Home-Run-regression/blob/main/Bronx%20Bombers.ipynb)
