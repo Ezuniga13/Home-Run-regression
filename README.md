@@ -31,7 +31,7 @@ Here is the main jupyter notebook page where I used python and other techs to sc
 -   Selenium
 
 ## Metis
-[Meits](https://www.thisismetis.com/) is a 12-week accredited data science bootcamp focused on Python programming, machine learning, statistical modeling, data visualization, project design, and communication.
+[Metis](https://www.thisismetis.com/) is a 12-week accredited data science bootcamp focused on Python programming, machine learning, statistical modeling, data visualization, project design, and communication.
 
 
 
